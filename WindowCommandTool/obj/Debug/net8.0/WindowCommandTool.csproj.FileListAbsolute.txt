@@ -1,0 +1,14 @@
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\WindowCommandTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\WindowCommandTool.AssemblyInfoInputs.cache
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\WindowCommandTool.AssemblyInfo.cs
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\WindowCommandTool.csproj.CoreCompileInputs.cache
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\bin\Debug\net8.0\WindowCommandTool.exe
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\bin\Debug\net8.0\WindowCommandTool.deps.json
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\bin\Debug\net8.0\WindowCommandTool.runtimeconfig.json
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\bin\Debug\net8.0\WindowCommandTool.dll
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\bin\Debug\net8.0\WindowCommandTool.pdb
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\WindowCommandTool.dll
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\refint\WindowCommandTool.dll
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\WindowCommandTool.pdb
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\WindowCommandTool.genruntimeconfig.cache
+C:\Users\THINKBOOK\source\repos\WindowCommandTool\WindowCommandTool\obj\Debug\net8.0\ref\WindowCommandTool.dll
